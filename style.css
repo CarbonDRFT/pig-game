@@ -28,6 +28,18 @@ body {
   color: white;
 }
 
+.game__description {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 4rem auto 0 auto;
+  font-family: "Nunito-bold", sans-serif;
+  font-size: 2rem;
+  width: 100%;
+  height: 100%;
+  color: white;
+}
+
 .pig__container {
   font-family: "Nunito", sans-serif;
   font-weight: 400;
